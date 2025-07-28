@@ -3,3 +3,5 @@ openai
 python-dotenv
 Pillow
 psycopg[binary]
+sqlalchemy
+psycopg-binary
